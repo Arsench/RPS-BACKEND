@@ -9,9 +9,13 @@ To run this application, you will need:<br />
 To install and run the application, follow these steps:
 
 1. Clone the repository to your local machine:<br />
+
 ```git clone https://github.com/USERNAME/RPS-BACKEND.git ```
+
 2. Navigate to the project directory:<br />
+
 ```cd RPS-BACKEND```
+
 3. Build the project using Maven:<br />
 ```mvn clean package```
 4. Start the application using Maven:<br />
