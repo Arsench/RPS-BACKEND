@@ -17,9 +17,13 @@ To install and run the application, follow these steps:
 ```cd RPS-BACKEND```
 
 3. Build the project using Maven:<br />
+
 ```mvn clean package```
+
 4. Start the application using Maven:<br />
+
 ```mvn spring-boot:run```
+
 ## API Documentation
 The RESTful API includes the following endpoints:<br />
 POST /play: Plays a round of Rock Paper Scissors with the player's choice as input. Returns the computer's choice and the result of the game.<br />
